@@ -1,0 +1,6 @@
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\bin\Debug\FiguresSquare.dll
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\bin\Debug\FiguresSquare.pdb
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\FiguresSquare.csproj.AssemblyReference.cache
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\FiguresSquare.csproj.CoreCompileInputs.cache
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\FiguresSquare.dll
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\FiguresSquare.pdb

@@ -1,14 +1,15 @@
-﻿using System;
+﻿
+using System;
 
 namespace FiguresSquare
 {
-    public class Triangle: IFigure
+    public class Triangle : IFigure
     {
-        private float _side_1 
+        private float _side_1
         {
-            set 
+            set
             {
-                if(value <= 0)
+                if (value <= 0)
                 {
                     _side_1 = 1;
                     Console.WriteLine("Side most be greater than to 0");
@@ -18,10 +19,10 @@ namespace FiguresSquare
                 {
                     _side_1 = value;
                 }
-                    
+
             }
 
-            get 
+            get
             {
                 return _side_1;
             }
@@ -95,7 +96,7 @@ namespace FiguresSquare
             float _maxSide_2 = Math.Max(_side_2, _side_3);
             float _maxSide = Math.Max(_maxSide_1, _maxSide_2);
 
-            if ((Math.Pow(_side_1,2) + Math.Pow(_side_2, 2) + Math.Pow(_side_3, 2) - Math.Pow(_maxSide, 2) == Math.Pow(_maxSide, 2)))
+            if ((Math.Pow(_side_1, 2) + Math.Pow(_side_2, 2) + Math.Pow(_side_3, 2) - Math.Pow(_maxSide, 2) == Math.Pow(_maxSide, 2)))
             {
                 return true;
             }
@@ -104,7 +105,7 @@ namespace FiguresSquare
             {
                 return false;
             }
-                
+
 
         }
     }

@@ -1,17 +1,17 @@
 ﻿using System;
-    
+
 namespace FiguresSquare
 {
-    public class Circle: IFigure
-        
+    public class Circle : IFigure
+
     {
         private const float PI = 3.14F;
         private float _radius
         {
 
-            set 
-            { 
-                if(value <= 0)
+            set
+            {
+                if (value <= 0)
                 {
                     _radius = 1;
                     Console.WriteLine("Radius most be greater than to 0");
@@ -23,14 +23,14 @@ namespace FiguresSquare
                 }
             }
 
-            get 
-            { 
-                return _radius; 
+            get
+            {
+                return _radius;
             }
 
         }
 
-        public Circle (float radius)
+        public Circle(float radius)
         {
             _radius = radius;
         }

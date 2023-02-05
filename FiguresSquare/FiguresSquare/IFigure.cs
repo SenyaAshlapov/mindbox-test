@@ -2,7 +2,7 @@
 {
     public interface IFigure
     {
-        public float CalculateSquare();
+        float CalculateSquare();
 
     }
 }
