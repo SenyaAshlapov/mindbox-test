@@ -1,0 +1,12 @@
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\bin\Debug\net6.0\FiguresSquare.deps.json
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\bin\Debug\net6.0\FiguresSquare.dll
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\bin\Debug\net6.0\FiguresSquare.pdb
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\FiguresSquare.csproj.AssemblyReference.cache
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\FiguresSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\FiguresSquare.AssemblyInfoInputs.cache
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\FiguresSquare.AssemblyInfo.cs
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\FiguresSquare.csproj.CoreCompileInputs.cache
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\FiguresSquare.dll
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\refint\FiguresSquare.dll
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\FiguresSquare.pdb
+D:\Projects\mindbox-test\FiguresSquare\FiguresSquare\obj\Debug\net6.0\ref\FiguresSquare.dll
